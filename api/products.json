@@ -1,0 +1,5 @@
+[
+  {"id": 1, "title": "Minsk", "charge": "Taxi" , "price": 500.01, "inventory": 2, "display":"block"},
+  {"id": 2, "title": "London", "charge": "Visa", "price": 10.99, "inventory": 10, "display":"block"},
+  {"id": 3, "title": "NY", "charge": "Dinner", "price": 19.99, "inventory": 5, "display":"block"}
+]
